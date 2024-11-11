@@ -1,7 +1,6 @@
 Brief: C++ program that simulates the classic hand game played between two players.
        The game has a simple set of rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
 
-
 Description: Rock, Paper, Scissors is a classic hand game usually played between two people.
              Each player simultaneously forms one of three shapes with an outstretched hand.
              Depending on the shapes, one player wins:
@@ -9,7 +8,6 @@ Description: Rock, Paper, Scissors is a classic hand game usually played between
              - Paper covers Rock.
              - Scissors cutting Paper.
              The beauty of "Rock, Paper, Scissors" lies in its simplicity and unpredictability.
-
 
 Objectives: Let's build a basic game engine and sprinkle in some randomness.
             Let's make the game more robust by handling invalid inputs gracefully.
