@@ -16,6 +16,9 @@ Objectives: Let's build a basic game engine and sprinkle in some randomness.
             Typically, no one determines the winner based on a single game as it's statistically dishonest.
             Let's enhance our game by adding the required number of rounds (usually 5) and increasing interactivity.
 
+![](https://github.com/atirake/Rock_Paper_Scissors/blob/master/RPS.gif)
+https://github.com/atirake/Rock_Paper_Scissors/blob/master/RPS.gif
+
 
 Tasks: The program greets the user and asks them to enter a game request, which includes:
        name; number of game repetitions; selected steps (by numbers or names);
