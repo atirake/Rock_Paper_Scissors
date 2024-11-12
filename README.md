@@ -1,10 +1,10 @@
-#Rock Paper Scissors
+# **Rock Paper Scissors**
 C++ program that simulates the classic hand game played between two players.
 
 The game has a simple set of rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
 
 
-##Description 
+## **Description** 
 
 Rock, Paper, Scissors is a classic hand game usually played between two people.
              
@@ -21,7 +21,7 @@ Depending on the shapes, one player wins:
 The beauty of "Rock, Paper, Scissors" lies in its simplicity and unpredictability.
 
 
-##Objectives
+## **Objectives**
 
 Let's build a basic game engine and sprinkle in some randomness.
 
@@ -40,7 +40,7 @@ Let's enhance our game by adding the required number of rounds (usually 5) and i
 https://github.com/atirake/Rock_Paper_Scissors/blob/master/RPS.gif
 
 
-##Tasks 
+## **Tasks** 
 
 The program greets the user and asks them to enter a game request, which includes:
        
